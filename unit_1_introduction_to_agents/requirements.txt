@@ -1,0 +1,9 @@
+markdownify
+smolagents
+requests
+duckduckgo_search
+pandas
+transformers
+diffusers
+accelerate
+mediapipe
