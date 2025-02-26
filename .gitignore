@@ -1,3 +1,5 @@
 *.pem
 .env
 .gradio
+gemma-2-2B-it-thinking-function_calling-V0
+.ipynb_checkpoints
